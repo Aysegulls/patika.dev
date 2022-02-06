@@ -1,0 +1,19 @@
+/* class -> .text-red {} 
+id -> #id-bilgisi {} */
+h1{
+    color: rgb(88, 184, 88);
+}
+h2{
+    color: rgb(226, 196, 211);
+}
+
+.fs-20
+{
+   font-size: 20px;
+}
+.text-blue
+{
+    color: blue;
+}
+.text-green
+{color: rgb(132, 141, 132);}
